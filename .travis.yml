@@ -1,5 +1,5 @@
 language: python
 install:
-  pip install opencv-python,sklearn,numpy,matplotlib
+  pip install opencv-python sklearn numpy matplotlib
 script:
   python tests.py
